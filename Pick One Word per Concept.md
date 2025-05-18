@@ -1,0 +1,1 @@
+Pick one word for an abstract concept and stick with it. Don't have [[method]]s for different classes do the same thing but be named differently.

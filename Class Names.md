@@ -1,0 +1,1 @@
+[[Class]]/[[object]] should have noun/noun phrase names ex. Customer, wikipage

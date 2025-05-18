@@ -1,0 +1,1 @@
+Don't encode [[type]] or [[scope]] into names.
