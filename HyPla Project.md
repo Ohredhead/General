@@ -6,7 +6,7 @@ The HyPla (Hydrogen Plasma) project is SINTEF’s dedicated research initiative 
 **Key Points**  
 - Combines theoretical modeling, lab experiments, and **pilot-scale tests**.  
 - Successfully demonstrated **reduction of manganese ore** using hydrogen plasma.  
-- Aims to scale the method for industrial use
+- Aims to scale the method for industrial use.
 
 **Relevant Tags**  
 #HyPla #PilotProject #CleanMetals
