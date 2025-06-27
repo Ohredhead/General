@@ -5,7 +5,6 @@ import { glob } from 'glob';
 
 const notesDir = '.'; // or 'notes' if your vault is in a subfolder
 const templatePath = 'Templates/Note Template.md';
-const path = require('path');
 const outputPath = path.resolve(__dirname, '../../context.md');
 
 const files = await glob(`${notesDir}/**/*.md`, { ignore: [outputPath] });
