@@ -34,11 +34,11 @@ summary += ## Notes Summary\n';
 
 for (const file of files) {
   const content = fs.readFileSync(file, 'utf-8');
-  const { data, content: body } = matter(content);
+  const title = path.basename(file, '.md');
 
-  const title = data.title || path.basename(file, '.md');
-  const tags = (data.tags || []).join(', ');
-  const backlinks = [...body.matchAll(/(.*?)/g)].map(match => match[1]);
+// Use the full content for tag/backlink parsing (no YAML assumptions)
+const tags = [...content.matchAll(/#([a-zA-Z0-9/_-]+)/g)].map(m => m[1]);
+const backlinks = [...content.matchAll(/([^]+)/g)].map(m => m[1]);
 
   summary += `\n### ${title}\n`;
   if (tags) summary += `- Tags: ${tags}\n`;
