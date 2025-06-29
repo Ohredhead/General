@@ -2,12 +2,16 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { glob } from 'glob';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const notesDir = '.'; // or 'notes' if your vault is in a subfolder
 const templatePath = 'Templates/Note Template.md';
 const outputPath = path.resolve(__dirname, '../../context.md');
 
-const files = await glob(`${notesDir}/**/*.md`, { ignore: [outputPath] });
+const files = await glob(`${notesDir}/**/*.md`, { ignore: ['**/context.md'] });
 
 let summary = `# 🧠 Obsidian Vault Context\n\n`;
 
