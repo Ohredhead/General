@@ -30,7 +30,9 @@ if (fs.existsSync(templatePath)) {
   summary += `## 📝 Note Template\n\n\`\`\`markdown\n${template.trim()}\n\`\`\`\n\n`;
 }
 
-summary += `## 📚 Notes Summary\n`;
+summary += `\n### ${title}\n`;
+if (tags) summary += `- Tags: ${tags}\n`;
+if (backlinks.length) summary += `- Backlinks: ${backlinks.join(', ')}\n`;
 
 for (const file of files) {
   const content = fs.readFileSync(file, 'utf-8');
