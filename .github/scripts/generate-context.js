@@ -38,7 +38,7 @@ for (const file of files) {
 
 // Use the full content for tag/backlink parsing (no YAML assumptions)
 const tags = [...content.matchAll(/#([a-zA-Z0-9/_-]+)/g)].map(m => m[1]);
-const backlinks = [...content.matchAll(/⌷⌷([^⌷]+)⌷⌷/g)].map(m => m[1]);
+const backlinks = [...content.matchAll(/\[\[([^\]]+)\]\]/g)].map(m => m[1]);
 
   summary += `\n### ${title}\n`;
   if (tags) summary += `- Tags: ${tags}\n`;
