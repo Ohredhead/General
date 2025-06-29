@@ -7,13 +7,13 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const notesDir = '.'; // or 'notes' if your vault is in a subfolder
+const notesDir = path.resolve(__dirname, '../../');
 const templatePath = 'Templates/Note Template.md';
 const outputPath = path.resolve(__dirname, '../../context.md');
 
 const files = await glob(`${notesDir}/**/*.md`, {
   ignore: [
-    '**/context.md',
+    '${notesDir}/context.md',
     '**/README.md',
     '**/readme.md',
     '**/CHANGELOG.md',
