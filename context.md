@@ -2,6 +2,10 @@
 
 ## Notes Summary
 
+### template
+- Tags: article
+- Backlinks: {{Note Title}}, {{YYYY-MM-DD}}, {{Article Date}}, {{Related Note 1}}, {{Related Note 2}}, {{Related Note 3}}
+
 ### predicate
 - Tags: 
 - Backlinks: method
@@ -210,6 +214,10 @@
 ### Giovanni Asproni
 - Tags: Author
 - Backlinks: clean code, Kevlin Henney, Peter Sommerlad
+
+### GPT Prompts
+- Tags: 
+- Backlinks: template
 
 ### Function
 - Tags: 
