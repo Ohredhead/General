@@ -135,6 +135,10 @@
 - Tags: article
 - Backlinks: {{Note Title}}, {{YYYY-MM-DD}}, {{Article Date}}, {{Related Note 1}}, {{Related Note 2}}, {{Related Note 3}}
 
+### Nanoscale trilayer exhibits ultrafast charge transfer in semiconductor materials
+- Tags: nanomaterials,semiconductors,article
+- Backlinks: Ultrafast Charge Transfer in Nanoscale Trilayer Semiconductors, 2025-06-30, 2024-07-18
+
 ### Names
 - Tags: 
 - Backlinks: clean code, Intention-Revealing Names, Avoid Disinformation, Make Meaningful Distinctions, Use Pronounceable Names, Use Searchable Names, Avoid Encodings, Hungarian Notation, Member Prefixes, Interfaces and Implementations, Avoid Mental Mapping, Class Names, Method Names, Don’t Be Cute, Pick One Word per Concept, Don’t Pun, Use Solution Domain Names, Use Problem Domain Names, Add Meaningful Context
