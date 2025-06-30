@@ -19,7 +19,7 @@ const files = await glob(`${notesDir}/**/*.md`, {
     '**/CHANGELOG.md',
     '**/LICENSE.md',
     '**/node_modules/**',
-    '**/.git/**'
+    '**/.git/**',
     '**/[0-9][0-9][0-9][0-9][0-9][0-9].md' // ignore yymmdd.md files
   ]
 });
