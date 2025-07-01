@@ -140,8 +140,8 @@
 - Backlinks: {{Note Title}}, {{YYYY-MM-DD}}, {{Article Date}}, {{Related Note 1}}, {{Related Note 2}}, {{Related Note 3}}
 
 ### Nanoscale trilayer exhibits ultrafast charge transfer in semiconductor materials
-- Tags: nanomaterials,semiconductors,article
-- Backlinks: Ultrafast Charge Transfer in Nanoscale Trilayer Semiconductors, 2025-06-30, 2024-07-18
+- Tags: nanomaterials,semiconductors,article,optoelectronics
+- Backlinks: Ultrafast Charge Transfer in Nanoscale Trilayer Semiconductors, SWCNT, photovoltaic, optoelectronic, 2025-06-30, 2024-07-18
 
 ### Names
 - Tags: 
@@ -286,6 +286,10 @@
 
 ### Carnets
 - Tags: ipad,ide
+
+### Carbon Capture Reimagined New Material Removes CO2 From Air Like a Tree
+- Tags: cleantech,carboncapture,article,3dprinting,hydrogel
+- Backlinks: Carbon Capture Reimagined New Material Removes CO2 From Air Like a Tree, 3D printing, cyanobacteria, hydrogel, 2025-06-30, 2024-06-25
 
 ### Blocks and Indenting
 - Tags: 
