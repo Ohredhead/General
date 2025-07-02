@@ -200,8 +200,8 @@
 - Backlinks: Hydrogen Plasma Technology, SINTEF Research Organization, Ferromanganese Production, 2025-05-03, 2025-03-09, SINTEF Research Organization, HyPla Project, Ferromanganese Production, Emission-Free Metal Industry
 
 ### HyPla Project
-- Tags: HyPla,PilotProject,CleanMetals
-- Backlinks: HyPla Project, 2025-05-03, 2025-03-09, Hydrogen Plasma Technology, SINTEF Research Organization, Ferromanganese Production
+- Tags: HyPla,PilotProject,CleanMetals,Decarbonization
+- Backlinks: HyPla Project, hydrogen, 2025-05-03, 2025-03-09, Hydrogen Plasma Technology, SINTEF Research Organization, Ferromanganese Production
 
 ### Hungarian Notation
 - Tags: 
