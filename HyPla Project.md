@@ -1,7 +1,7 @@
 ## [[HyPla Project]]
 
 **Summary**  
-The HyPla (Hydrogen Plasma) project is SINTEF’s dedicated research initiative aimed at using **electricity and hydrogen** to reduce manganese ore without carbon emissions.
+The HyPla (Hydrogen Plasma) project is SINTEF’s dedicated research initiative aimed at using **electricity and [[hydrogen]]** to reduce manganese ore without carbon emissions.
 
 **Key Points**  
 - Combines theoretical modeling, lab experiments, and **pilot-scale tests**.  
@@ -9,7 +9,7 @@ The HyPla (Hydrogen Plasma) project is SINTEF’s dedicated research initiative 
 - Aims to scale the method for industrial use
 
 **Relevant Tags**  
-#HyPla #PilotProject #CleanMetals
+#HyPla #PilotProject #CleanMetals #Decarbonization 
 
 **Metadata**  
 Created:: [[2025-05-03]]  
