@@ -87,6 +87,10 @@
 - Tags: SINTEF,Research,GreenIndustry
 - Backlinks: SINTEF Research Organization, HyPla Project, 2025-05-03, 2025-03-09, Hydrogen Plasma Technology, HyPla Project, Emission-Free Metal Industry
 
+### Russia launches accounts with withdrawal guarantees for foreign investors
+- Tags: Russia,ForeignDirectInvestment,article,RussiaUkraineWar
+- Backlinks: Russia launches accounts with withdrawal guarantees for foreign investors, Vladimir Putin, Ukraine War, Russia, type-C accounts, foreign investment, St Petersburg Economic Forum, Alexei Yakovlev, 2025-07-02, 2025-07-01
+
 ### Ron Jeffries
 - Tags: Author
 - Backlinks: Clean code, Extreme Programming Installed, Extreme Programming Adventures in C#, Beck's rules of simple code
