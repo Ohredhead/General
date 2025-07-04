@@ -30,6 +30,10 @@
 ### abstraction
 - Tags: 
 
+### World’s first robotic hand bends fingers using nothing but human thought
+- Tags: BCI,AI,disability,CarnegieMellon,EEG,deepLearning,BinHe,neuroscience,assistiveRobotics,article
+- Backlinks: Carnegie Mellon, Dr. Bin He, BCI, deep learning, EEG, BCI, BCI, Deep learning, EEG, 2025-07-04, 2025-06-30
+
 ### Working Effectively with Legacy Code
 - Tags: Book
 - Backlinks: Michael Feathers
