@@ -4,7 +4,7 @@
 
 ### template
 - Tags: article
-- Backlinks: {{Note Title}}, {{YYYY-MM-DD}}, {{Article Date}}, {{Related Note 1}}, {{Related Note 2}}, {{Related Note 3}}
+- Backlinks: {{Note Title}}, {{YYYY-MM-DD}}, {{Article Date}}
 
 ### predicate
 - Tags: 
@@ -115,6 +115,10 @@
 
 ### Pycel
 - Tags: 
+
+### Principal Component Analysis (PCA) in Python
+- Tags: Coding,Statistics,DataAnalyses,DataScience,article,LLM,MachineLearning
+- Backlinks: Principal Component Analysis (PCA) in Python, Principal Component Analysis, Python, feature reduction, dimensionality reduction, image processing, finance, genetics, machine learning, feature reduction, variance dominance, Principal Components, 2025-08-1, 2025-07-04
 
 ### Pick One Word per Concept
 - Tags: 
