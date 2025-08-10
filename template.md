@@ -9,14 +9,9 @@
 - {{Bullet point 3 – future implication or connection.}}
 
 **Relevant Tags**  
-#{{MainTag}} #{{TopicTag}} #article
+#{{Main Tag}} #{{Topic Tag}} #article
 
 **Metadata** 
 Created:: [[{{YYYY-MM-DD}}]] 
 Published:: [[{{Article Date}}]]
 Source:: [{{Source URL}}]({{Source URL}})
-
-**Linked Notes**  
-- [[{{Related Note 1}}]]  
-- [[{{Related Note 2}}]]  
-- [[{{Related Note 3}}]]
